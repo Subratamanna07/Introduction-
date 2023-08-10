@@ -1,8 +1,7 @@
-markdown 
 <h1 align="center">Hi 👋, I'm Subrata Kumar Manna</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src"=(https://ibb.co/BTpQ5sB)">
+<img align="right" alt="Coding" width="400" src="(https://ibb.co/BTpQ5sB)">
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
 
