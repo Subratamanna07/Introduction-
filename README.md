@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Kumar Manna</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="(https://ibb.co/BTpQ5sB)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=https:%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif&tbm=isch&tbs=rimg:CSzobjcxvm9LYeneDlE-m18osgIRCgIIARAAOgQIARAAVfQXmT7AAgDYAgDgAgA&client=ms-android-oppo-rvo3&hl=en&sa=X&ved=0CBcQuIIBahcKEwiAyZjP39KAAxUAAAAAHQAAAAAQBQ&biw=360&bih=664#imgrc=xDCRvT4wgUnr9M">
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
 
