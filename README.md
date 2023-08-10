@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Kumar Manna</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="[INSERT_IMAGE_URL_HERE](https://ibb.co/BTpQ5sB)">
+<img align="right" alt="Coding" width="400" src"(https://ibb.co/BTpQ5sB)">
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
 
@@ -25,4 +25,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/Subratamanna07&show_icons=true&locale=en&layout=compact" alt="Your Name" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subratamanna07&show_icons=true&locale=en&layout=compact" alt="Your Name" /></p>
