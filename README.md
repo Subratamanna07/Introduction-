@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Kumar Manna</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="INSERT_IMAGE_URL_HERE">
+<img align="right" alt="Coding" width="400" src="[INSERT_IMAGE_URL_HERE](https://ibb.co/BTpQ5sB)">
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
 
@@ -12,10 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
-<a href="YOUR_KAGGLE_PROFILE_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Your Name" height="30" width="40" /></a>
-<a href="YOUR_INSTAGRAM_PROFILE_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Name" height="30" width="40" /></a>
-<a href="YOUR_CODECHEF_PROFILE_URL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Your Name" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrata-kumar-manna-2a4784211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subrata Kumar Manna" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/subratakumarmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Your Name" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/su_1994" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Your Name" height="30" width="40" /></a>
 
 <br>
 
@@ -26,4 +25,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="Your Name" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/Subratamanna07&show_icons=true&locale=en&layout=compact" alt="Your Name" /></p>
