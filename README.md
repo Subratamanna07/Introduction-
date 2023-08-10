@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subrata-kumar-manna-2a4784211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Subrata Kumar Manna" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/subratakumarmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Your Name" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/subratakumarmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Subrata Kumar Manna" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/su_1994" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Your Name" height="30" width="40" /></a>
 
 <br>
