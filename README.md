@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Kumar Manna</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=https:%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif&tbm=isch&tbs=rimg:CSzobjcxvm9LYeneDlE-m18osgIRCgIIARAAOgQIARAAVfQXmT7AAgDYAgDgAgA&client=ms-android-oppo-rvo3&hl=en&sa=X&ved=0CBcQuIIBahcKEwiAyZjP39KAAxUAAAAAHQAAAAAQBQ&biw=360&bih=664#imgrc=xDCRvT4wgUnr9M">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning *Data Science and Machine Learning*
 
@@ -16,7 +16,15 @@
 <a href="https://www.kaggle.com/subratakumarmanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Subrata Kumar Manna" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/su_1994" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Your Name" height="30" width="40" /></a>
 
+
+
+
+
 <br>
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,6 +47,13 @@
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matlab.svg" alt="MATLAB" height="40" width="40" /></a>
 <!-- Add other icons here based on your skills -->
 
+
+
+
 <br>
+
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subratamanna07&show_icons=true&locale=en&layout=compact" alt="Subrata Kumar Manna" /></p>
